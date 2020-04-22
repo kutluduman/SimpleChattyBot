@@ -34,6 +34,13 @@ Temporary Items
 .project
 .classpath
 
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
