@@ -4,3 +4,8 @@ _ReSharper.*
 bin
 obj
 packages
+/target/
+/.classpath
+/*.project
+/.settings
+/*.springBeans
